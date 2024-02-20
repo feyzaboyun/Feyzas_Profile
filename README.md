@@ -7,15 +7,8 @@
  </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👧🏻 Feyza Boyun | 🚀  Mechanical Engineer | 🛸 Indianapolis, IN <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3> 👧🏻 Feyza Boyun | 🚀  Mechanical Engineer | 🛸 Indianapolis, IN </h3>
 </div>
-
-
-
-<p align="center">
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
- </p>
  
  <h5 align="center">
    <i>Engineer by day 🌅 Programmer by night 🌌 </i>
@@ -23,7 +16,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFydzk5aGc5czFmajY3d2djcWVubjczNGNtZ2hpbXFwY2ZrbXhqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1X7xL3g8fWpOFGqfxE/giphy-downsized-large.gif" />
 <p align="center">
   <h3> I am 26 years old & I love </h3>
 </p>
