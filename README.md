@@ -1,15 +1,14 @@
 <div align="center">
-   <h1>Hello there, I'm <a href="https://hemant.codes">Feyza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hello there, I'm Feyza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/feyzaboyun/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
- </p>
+
+
+  <a href="mailto:abdel.perezpy@gmail.com"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
  
- <h5 align="center">
+ <h1 align="center">
    <i>Engineer by day 🌅 Programmer by night 🌌 </i>
-  </h5>
- 
+  </h1>
  
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFydzk5aGc5czFmajY3d2djcWVubjczNGNtZ2hpbXFwY2ZrbXhqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1X7xL3g8fWpOFGqfxE/giphy-downsized-large.gif" />
@@ -29,6 +28,7 @@
  
  - 🏕️ Hiking & Camping
 
+ - 💬 Connect? 👉🏻  <a href="mailto:feyzaboyun@gmail.com"><img src="https://raw.githubusercontent.com/feyzaboyun/feyzaboyun/master/gmail.png" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
 <br />
 
 ### - Languages and Tools...
@@ -43,5 +43,13 @@
   <img src="https://raw.githubusercontent.com/feyzaboyun/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 </p>
 
+## My Stats
 
+| <img src="https://github-readme-stats.vercel.app/api?username=feyzaboyun&show_icons=true" alt="feyzaboyun" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyzaboyun" />
+|---|---|
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/feyzaboyun/count.svg" />
+</p>
 
