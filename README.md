@@ -5,10 +5,6 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/feyzaboyun/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
  </p>
-
-<div align="center">
-<h3> 👧🏻 Feyza Boyun | 🚀  Mechanical Engineer | 🛸 Indianapolis, IN </h3>
-</div>
  
  <h5 align="center">
    <i>Engineer by day 🌅 Programmer by night 🌌 </i>
@@ -18,7 +14,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFydzk5aGc5czFmajY3d2djcWVubjczNGNtZ2hpbXFwY2ZrbXhqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1X7xL3g8fWpOFGqfxE/giphy-downsized-large.gif" />
 <p align="center">
-  <h3> I am 26 years old & I love </h3>
+  <h3> I am 26 years old & I love... </h3>
 </p>
 
  - 🔩 Engineering 
@@ -32,8 +28,6 @@
  - 🏞️ Exploring New Places 
  
  - 🏕️ Hiking & Camping
- 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >]("www.linkedin.com/in/feyzaboyun/")
 
 <br />
 
