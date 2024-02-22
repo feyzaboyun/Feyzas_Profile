@@ -1,13 +1,9 @@
 <div align="center">
    <h1>Hello there, I'm Feyza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-
-
-
-  <a href="mailto:abdel.perezpy@gmail.com"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
  
  <h1 align="center">
-   <i>Engineer by day 🌅 Programmer by night 🌌 </i>
+   <p>Engineer by day 🌅 Programmer by night 🌌 </p>
   </h1>
  
 <br />
