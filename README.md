@@ -35,11 +35,24 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/matlab.svg" alt="matlab" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+ <a href="#">
+    <img src="svg/languages/matlab.svg" alt="matlab" style="vertical-align:top margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="svg/languages/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="svg/languages/arduino.svg" alt="arduino" style="vertical-align:top margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="svg/languages/html.svg" alt="html" style="vertical-align:top margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="svg/languages/css3.svg" alt="css3" style="vertical-align:top margin:6px 4px">
+  </a>  
+ <a href="#">
+    <img src="svg/languages/js.svg" alt="js" style="vertical-align:top margin:6px 4px">
+  </a>  
 </p>
 
 
