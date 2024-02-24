@@ -3,7 +3,7 @@
 </div>
  
  <h1 align="center">
-   <p>Engineer by day 🌅 Programmer by night 🌌 </p>
+   <p> Engineer by day 🌅 Hobbyist by night 🌌 </p>
   </h1>
  
 <br />
